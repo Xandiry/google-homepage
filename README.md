@@ -1,0 +1,1 @@
+This is my first project. In this project I will be deconstructing a webpage and recreating it to the best of my ability. This is for me to gain knowledge of where things generally go and the overall construction of code.
